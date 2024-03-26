@@ -41,20 +41,8 @@
 <h3> Click install</h3>
 <img src="https://github.com/maharjansabin12/Installing-Active-Directory-Domain-Service-ADDS-in-Window-Server-2019-on-Azure-Cloud/assets/161717201/35efaaa2-cba4-4141-a414-18adf9e7edac" alt="win2019" width="80%" heigh="80%">
 
-<h3></h3>
-<img src="" alt="win2019" width="80%" heigh="80%">
-
-<h3></h3>
-<img src="" alt="win2019" width="80%" heigh="80%">
-
-<h3></h3>
-<img src="" alt="win2019" width="80%" heigh="80%">
-
-<h3></h3>
-<img src="" alt="win2019" width="80%" heigh="80%">
-
-<h3></h3>
-<img src="" alt="win2019" width="80%" heigh="80%">
+<h3> The installation is now COMPLETE! Now, we need to create Organizational Units(OU), Groups, and Users in our Active Directory and add Users to the domain that we have created. </h3>
+<h3>Click <a href="https://github.com/maharjansabin12/Creating-Organizaional-Unit-Groups-and-Users-in-Active-Directory.git">HERE</a> on how to create OU, Users, and Groups on Active Directory.</h3>
 
 
 
