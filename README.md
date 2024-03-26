@@ -1,5 +1,5 @@
 # Installing Active Directory Domain Services in Windows Server 2019 on Azure Cloud
-<h3>I hope you have gone through how to install Windows Server 2019 on the Azure Cloud. If not please click <a href="https://github.com/maharjansabin12/Window-server2019-installation-Azure-Cloud.git"> here </a> to read how to install it.</h3>
+<h3>I hope you have gone through how to install Windows Server 2019 on the Azure Cloud. If not please click <a href="https://github.com/maharjansabin12/Window-server2019-installation-Azure-Cloud.git"> HERE </a> to read how to install it.</h3>
 
 ### After installing WindowServer2019, navigate to server manager. Click on Add Roles and features
 <img src="https://github.com/maharjansabin12/Installing-Active-Directory-Domain-Service-ADDS-in-Window-Server-2019-on-Azure-Cloud/assets/161717201/85a18df3-49dc-4a9e-a396-8e196e690317" alt="win2019" width="80%" heigh="80%">
